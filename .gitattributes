@@ -1,3 +1,4 @@
 bunker模型/BUNKER.STEP filter=lfs diff=lfs merge=lfs -text
 scoutmini麦轮款模型/麦轮外发.STEP filter=lfs diff=lfs merge=lfs -text
 scoutmini模型/sm[[:space:]]外发模型.STEP filter=lfs diff=lfs merge=lfs -text
+scout2.0模型/SCOUT_v2.0_200225.step filter=lfs diff=lfs merge=lfs -text
